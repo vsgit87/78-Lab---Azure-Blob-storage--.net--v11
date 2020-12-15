@@ -1,0 +1,36 @@
+C:\App\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Blob-v11.exe
+C:\App\Blob-v11\Blob-v11\obj\Debug\netcoreapp3.1\Blob-v11.csprojAssemblyReference.cache
+C:\App\Blob-v11\Blob-v11\obj\Debug\netcoreapp3.1\Blob-v11.AssemblyInfoInputs.cache
+C:\App\Blob-v11\Blob-v11\obj\Debug\netcoreapp3.1\Blob-v11.AssemblyInfo.cs
+C:\App\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Blob-v11.deps.json
+C:\App\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Blob-v11.runtimeconfig.json
+C:\App\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Blob-v11.runtimeconfig.dev.json
+C:\App\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Blob-v11.dll
+C:\App\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Blob-v11.pdb
+C:\App\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+C:\App\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+C:\App\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+C:\App\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\App\Blob-v11\Blob-v11\obj\Debug\netcoreapp3.1\Blob-v11.csproj.CoreCompileInputs.cache
+C:\App\Blob-v11\Blob-v11\obj\Debug\netcoreapp3.1\Blob-v11.csproj.CopyComplete
+C:\App\Blob-v11\Blob-v11\obj\Debug\netcoreapp3.1\Blob-v11.dll
+C:\App\Blob-v11\Blob-v11\obj\Debug\netcoreapp3.1\Blob-v11.pdb
+C:\App\Blob-v11\Blob-v11\obj\Debug\netcoreapp3.1\Blob-v11.genruntimeconfig.cache
+C:\AZ-204\78 Lab - Azure Blob storage -.net -v11\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Blob-v11.exe
+C:\AZ-204\78 Lab - Azure Blob storage -.net -v11\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Blob-v11.deps.json
+C:\AZ-204\78 Lab - Azure Blob storage -.net -v11\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Blob-v11.runtimeconfig.json
+C:\AZ-204\78 Lab - Azure Blob storage -.net -v11\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Blob-v11.runtimeconfig.dev.json
+C:\AZ-204\78 Lab - Azure Blob storage -.net -v11\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Blob-v11.dll
+C:\AZ-204\78 Lab - Azure Blob storage -.net -v11\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Blob-v11.pdb
+C:\AZ-204\78 Lab - Azure Blob storage -.net -v11\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+C:\AZ-204\78 Lab - Azure Blob storage -.net -v11\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+C:\AZ-204\78 Lab - Azure Blob storage -.net -v11\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+C:\AZ-204\78 Lab - Azure Blob storage -.net -v11\Blob-v11\Blob-v11\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\AZ-204\78 Lab - Azure Blob storage -.net -v11\Blob-v11\Blob-v11\obj\Debug\netcoreapp3.1\Blob-v11.csprojAssemblyReference.cache
+C:\AZ-204\78 Lab - Azure Blob storage -.net -v11\Blob-v11\Blob-v11\obj\Debug\netcoreapp3.1\Blob-v11.AssemblyInfoInputs.cache
+C:\AZ-204\78 Lab - Azure Blob storage -.net -v11\Blob-v11\Blob-v11\obj\Debug\netcoreapp3.1\Blob-v11.AssemblyInfo.cs
+C:\AZ-204\78 Lab - Azure Blob storage -.net -v11\Blob-v11\Blob-v11\obj\Debug\netcoreapp3.1\Blob-v11.csproj.CoreCompileInputs.cache
+C:\AZ-204\78 Lab - Azure Blob storage -.net -v11\Blob-v11\Blob-v11\obj\Debug\netcoreapp3.1\Blob-v11.csproj.CopyComplete
+C:\AZ-204\78 Lab - Azure Blob storage -.net -v11\Blob-v11\Blob-v11\obj\Debug\netcoreapp3.1\Blob-v11.dll
+C:\AZ-204\78 Lab - Azure Blob storage -.net -v11\Blob-v11\Blob-v11\obj\Debug\netcoreapp3.1\Blob-v11.pdb
+C:\AZ-204\78 Lab - Azure Blob storage -.net -v11\Blob-v11\Blob-v11\obj\Debug\netcoreapp3.1\Blob-v11.genruntimeconfig.cache
